@@ -1,3 +1,4 @@
 # Tugas-Akhir-Metnum-2021
 
-sek geng bentar lg nunggu file lengkapnya dr erin yak nnt gua yg upload di sini
+sambil nunggu uda ada yg tipus modul 7 arus blm
+minta dong
