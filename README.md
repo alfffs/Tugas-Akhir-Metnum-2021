@@ -1,3 +1,3 @@
 # Tugas-Akhir-Metnum-2021
 
-tetotet
+sek geng bentar lg nunggu file lengkapnya dr erin yak nnt gua yg upload di sini
