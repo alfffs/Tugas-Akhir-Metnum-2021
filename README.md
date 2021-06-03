@@ -11,7 +11,7 @@ Shahreza Gede Ammarazkha		          26050119140100
 Muhammad Zidan Alfiqri			          26050119140099
 Krisna Dwi Kurniawan		              26050119140095
 Alvaro Theondra Undap			            26050119140093
-Hana Apriana				                  26050119140092 <!--more-->
+Hana Apriana				                  26050119140092
 
 # PENGENALAN METODE NUMERIK DAN PYTHON
 Pada dasarnya metode numerik merupakan suatu teknik, yang mana dapat digunakan untuk menyelesaikan permasalahan – permasalahan yang diformulasikan secara matematis dengan melakukan suatu operasi hitungan.  Pada umumnya metode numerik digunakan untuk menyelesaikan permasalahan - permasalahan matematis yang tidak dapat diselesaikan menggunakan metode analitik. Apabila terdapat cara untuk menyelesaikan secara analitik, proses penyelesaian tersebut sangat rumit serta menghabiskan banyak waktu sehingga tidak efisien. Oleh karena itu, pada umumnya penyelesaiannya dilakukan secara numeris, yang mana memiliki hasil dari penyelesaian yang mana merupakan nilai perkiraan atau pendekatan yang diperoleh dari penyelesaian analitis. Jika dilihat berdasarkan cara kerja dari metode numeric, maka diketahui bahwa dari hasil tersebut akan diperoleh nilai kesalahan atau biasa disebut dengan nilai error. Semakin kecil nilai error yang diperoleh, maka hasil dari perhitungan akan semakin mendekati sempurna, dan begitupun sebaliknya apabila nilai erro yang diperoleh semakin besar, maka hasil perhitungan dinggap kurang akurat.
